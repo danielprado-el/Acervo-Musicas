@@ -1,0 +1,46 @@
+{
+  "files": {
+    "Acervo.java": [
+      {
+        "id": "00468464-3b3e-4061-ba34-c5fe4c5290e5",
+        "line": 50,
+        "version": 19544,
+        "index": 2221
+      },
+      {
+        "id": "e12c83db-52d9-4c4d-bc2e-a4740723904b",
+        "line": 88,
+        "version": 19544,
+        "index": 3534
+      },
+      {
+        "id": "a97a2dee-10d6-4cf8-bd18-7cfa7c27066e",
+        "line": 153,
+        "version": 19544,
+        "index": 6336
+      },
+      {
+        "id": "441d500a-25d6-43ca-a0b1-15c55ef7b632",
+        "line": 291,
+        "version": 19544,
+        "index": 12034
+      }
+    ],
+    "AcervoUtil.java": [
+      {
+        "id": "5140609b-9748-404d-8452-0681ffbd1b19",
+        "line": 246,
+        "version": 4369,
+        "index": 10524
+      }
+    ],
+    "Main.java": [
+      {
+        "id": "0e999bf2-b44a-46d0-98c9-bcb4d9f54044",
+        "line": 3,
+        "version": 6016,
+        "index": 60
+      }
+    ]
+  }
+}
